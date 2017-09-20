@@ -31,7 +31,7 @@ That is a white square.
 3. The following algorithm yields the season (Spring, Summer, Fall, or Winter) for a given month and day.
 
 If month is 1, 2, or 3, season = “Winter”
-Else if month is 4, 5, or 6, season = “Spring”
+<br/>Else if month is 4, 5, or 6, season = “Spring”
 Else if month if 7, 8, 9, season = “Summer”
 Else if month is 10, 11, 12, season = “Fall”
 If month is divisible by 3 and day >= 21
